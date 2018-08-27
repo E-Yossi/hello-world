@@ -1,3 +1,3 @@
 # hello-world
-Learning git\n
+Learning git
 I would like to learn how to use it
